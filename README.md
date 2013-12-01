@@ -21,7 +21,7 @@ var config = {
 };
 
 inst = new TestUser(config);
-inst.createTestUser(function(err, user){
+inst.getTestUser(function(err, user){
     //user is: { id: '100007266971717', access_token: 'CAAUY15laJ0wBAHBsEc67brBGaTY' }
 });
 ```

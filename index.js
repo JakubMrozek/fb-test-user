@@ -75,4 +75,4 @@ FacebookTestUser = (function() {
 
 })();
 
-exports.module = FacebookTestUser;
+module.exports = FacebookTestUser;

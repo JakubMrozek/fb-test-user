@@ -40,4 +40,4 @@ class FacebookTestUser
                         @testUser = user
                         return cb null, @testUser
 
-exports.module = FacebookTestUser
+module.exports = FacebookTestUser
