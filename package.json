@@ -1,0 +1,23 @@
+{
+  "name": "fb-test-user",
+  "version": "0.1.0",
+  "description": "Creates Facebook test user for automated tests",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JakubMrozek/fb-test-user.git"
+  },
+  "keywords": [
+    "facebook",
+    "test"
+  ],
+  "dependencies": {
+    "request": "~2.27.0"
+  },
+  "author": "Jakub Mrozek <jakub.mrozek@gmail.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/JakubMrozek/fb-test-user/issues"
+  }
+}
